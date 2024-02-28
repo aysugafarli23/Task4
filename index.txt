@@ -1,0 +1,12 @@
+Documentary
+
+
+Functional functions
+
+Update the current state of the application
+
+Use the update function
+
+Be sure to call the update function
+
+Say 'thanks for the update'
